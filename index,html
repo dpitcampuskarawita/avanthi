@@ -10,8 +10,8 @@
 
         .layer {
             position: absolute;
-            width: 1024;
-            height: 720;
+            width: 1800;
+            height: 1200;
         }
     </style>
 </head>
