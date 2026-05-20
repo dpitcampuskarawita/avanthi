@@ -21,198 +21,51 @@
 <body>
 
     <div class="layer" style="background-color:black; z-index:1;">
-        <img style="position:absolute; top:510px; left:90px; width:200px; height:200;"
+        <img style="position:absolute; top:805px; left:785px; width:350px; height:350;"
+             src="https://i.ibb.co/qMcQC5vH/budurasawalalalla.gif">
+             
+             <img style="position:absolute; top:510px; left:90px; width:1745px; height:1108;"
              src="https://i.ibb.co/3m7Hh6DY/fullframe.png">
 
-            <img style="position:absolute; top:750px; left:80px; width:1050px; height:auto;"
-             src="https://i.ibb.co/kVgcxqj2/IMG-20260403-WA0001.jpg">
-    
-
-        <img style="position:absolute; top:455px; left:-10px; width:400px; height:400;"
+             <img style="position:absolute; top:445px; left:845px; width:590px; height:590;"
              src="https://i.ibb.co/jcDxJhM/cercle.gif">
 
-         <img style="position:absolute; top:270px; left:485px; width:240px; height:240;"
-             src="https://i.ibb.co/qMcQC5vH/budurasawalalalla.gif">
+             <img style="position:absolute; top:480px; left:1190px; width:590px; height:590;"
+             src="https://i.ibb.co/jcDxJhM/cercle.gif">
 
+             <img style="position:absolute; top:770px; left:1380px; width:590px; height:590;"
+             src="https://i.ibb.co/jcDxJhM/cercle.gif">
 
-      <img style="position:absolute; top:560px; left:410px; width:400px; height:300;"
-             src="https://i.ibb.co/B5ppH44L/1000006395-removebg-preview.png">
+             <img style="position:absolute; top:780px; left:1020px; width:590px; height:590;"
+             src="https://i.ibb.co/jcDxJhM/cercle.gif">
+
+             <img style="position:absolute; top:1058px; left:1210px; width:590px; height:590;"
+             src="https://i.ibb.co/jcDxJhM/cercle.gif">
+
+             <img style="position:absolute; top:1058px; left: 140px; width:590px; height:590;"
+             src="https://i.ibb.co/jcDxJhM/cercle.gif">
+
+             <img style="position:absolute; top:775px; left:-35px; width:590px; height:590;"
+             src="https://i.ibb.co/jcDxJhM/cercle.gif">
+
+             <img style="position:absolute; top:770px; left:320px; width:590px; height:590;"
+             src="https://i.ibb.co/jcDxJhM/cercle.gif">
+
+             <img style="position:absolute; top:475px; left:150px; width:590px; height:590;"
+             src="https://i.ibb.co/jcDxJhM/cercle.gif">
+
+             <img style="position:absolute; top:450px; left:490px; width:590px; height:590;"
+             src="https://i.ibb.co/jcDxJhM/cercle.gif">
+    </div>
+
+                  
   
     </div>
 
 </body>
 
--------- frame 2 --------
-<body>
-
-    <div class="layer" style="background-color:black; z-index:10;">
-        <img style="position:absolute; top:275px; left:465px; width:300px; height:300;"
-             src="https://i.ibb.co/39jjcB5q/Picture1.png">
-
-    </div>
-
-</body>
-
---------- number row --------
-<body>
-  
-<div class="layer" style="background-color: #0f000; z-index: 11; position: relative;">
-    
-    <a href="#" style="
-        position: absolute;
-        top: 510px;
-        left: 140px;
-        background-color: #D2F708;
-        border-radius: 10px;
-        width: 30px;
-        height: 30px;
-        text-decoration: none;
-        color: #000;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    ">
-        01
-    </a>
-
-      <a href="#" style="
-        position: absolute;
-        top: 380px;
-        left: 355px;
-        background-color: #D2F708;
-        border-radius: 10px;
-        width: 30px;
-        height: 30px;
-        text-decoration: none;
-        color: #000;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    ">
-        02
-      </a>
-
-      <a href="#" style="
-        position: absolute;
-        top: 270px;
-        left: 150px;
-        background-color: #D2F708;
-        border-radius: 10px;
-        width: 30px;
-        height: 30px;
-        text-decoration: none;
-        color: #000;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    ">
-        03
-      </a>
-
-      <a href="#" style="
-        position: absolute;
-        top: 140px;
-        left: 365px;
-        background-color: #D2F708;
-        border-radius: 10px;
-        width: 30px;
-        height: 30px;
-        text-decoration: none;
-        color: #000;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    ">
-        04
-      </a>
-
-      <a href="#" style="
-        position: absolute;
-        top: 45px;
-        left: 590px;
-        background-color: #D2F708;
-        border-radius: 10px;
-        width: 30px;
-        height: 30px;
-        text-decoration: none;
-        color: #000;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    ">
-        05
-      </a>
-
-      <a href="#" style="
-        position: absolute;
-        top: 135px;
-        left: 800px;
-        background-color: #D2F708;
-        border-radius: 10px;
-        width: 30px;
-        height: 30px;
-        text-decoration: none;
-        color: #000;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    ">
-        06
-      </a>
-
-      <a href="#" style="
-        position: absolute;
-        top: 260px;
-        left: 990px;
-        background-color: #D2F708;
-        border-radius: 10px;
-        width: 30px;
-        height: 30px;
-        text-decoration: none;
-        color: #000;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    ">
-        07
-      </a>
-
-      <a href="#" style="
-        position: absolute;
-        top: 375px;
-        left: 820px;
-        background-color: #D2F708;
-        border-radius: 10px;
-        width: 30px;
-        height: 30px;
-        text-decoration: none;
-        color: #000;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    ">
-        08
-      </a>
-
-      <a href="#" style="
-        position: absolute;
-        top: 510px;
-        left: 990px;
-        background-color: #D2F708;
-        border-radius: 10px;
-        width: 30px;
-        height: 30px;
-        text-decoration: none;
-        color: #000;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    ">
-        09
-      </a>
-
-  <audio controls autoplay style="position: absolute;top: 900px;left: 450px;" >
+    <audio controls autoplay style="position: absolute;top: 1700px;left: 800px;" >
     <source src="https://files.catbox.moe/wvi5k5.m4a" type="audio/mp3" autoplay>
-  </audio>
+    </audio>
   
 </div>
